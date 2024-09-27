@@ -1,0 +1,42 @@
+.navbar{
+    padding: 20px;
+    height: 10vh;
+}
+.dropdown{
+    margin-left: 10px ;
+}
+.carrusel{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+}
+
+.carousel-inner{
+    height: 90vh;
+    position: absolute;
+}
+.carousel-inner img{
+    height: 90vh;
+    position: absolute;
+}
+.card{
+    position: relative;
+    margin-top: 50px;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+.carousel-control-next{
+    position: absolute;
+    margin-top: 45vh;
+}.carousel-control-prev{
+    position: absolute;
+    margin-top: 45vh;
+}
+.texto{
+    width: 10%;
+    position: relative;
+    margin-top: 50px;
+    left: 50%;
+    transform: translate(-50%,0);
+
+}
